@@ -8,7 +8,7 @@
 - [ ] Identify positive and negative attributes
 #### Week 2
 - [ ] Determine if the code can run
-- *if code does not work, fix it
+- *If code is inoperable, fix it*
 - [ ] Begin adding new attributes
 #### Week 3
 - [ ] 
