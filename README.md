@@ -11,8 +11,8 @@
 - *If code is inoperable, fix it*
 - [ ] Begin adding new attributes
 #### Week 3
-- [ ] 
-- [ ] 
+- [ ] Task 1
+- [ ] Task 2
 #### Week 4
-- [ ] 
-- [ ] 
+- [ ] Task 1
+- [ ] Task 2
