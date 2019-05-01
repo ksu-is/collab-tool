@@ -5,14 +5,12 @@
 - [X] Upload license file
 #### Week 2
 - [X] Add roadmap.md file
-- [ ] Determine if the code can run
-- *If code is inoperable, fix it*
-- [ ] Begin adding new attributes
+- [X] Research types of websites
 #### Week 3
-- [ ] Work on code
-- [ ] Test & commit code
-- [ ] Reevaluate features of program
+- [X] Learn website code
+- [X] Test & commit code
+- [X] Reevaluate features of program
 #### Week 4
-- [ ] Add any additional features
-- [ ] Remove any problematic features
-- [ ] Ensure code runs before presentation
+- [X] Add additional features
+- [X] Remove any problematic features
+- [X] Ensure code runs before presentation
